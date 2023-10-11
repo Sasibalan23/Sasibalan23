@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sasibalan.
-- 👀 I’m interested in sofwtare developer.
+- 👀 I’m interested in software developer.
 - 🌱 I’m currently learning full stack .NET developer.
 - 📫 How to reach me sasibalansankar23@gmail.com.
 
